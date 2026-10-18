@@ -2,15 +2,12 @@ godot overworld project
 
 necessities
 - make a dinosaur(?)
-	- generic RPG player 
+	- generic RPG player script
 	- basic functions (should take input from signals/events)
 	
 - Basic overworld
-	- Isometric (?)
-	- angled 3D view (make use of z axis)
-	- some currency (XP, coins)
-	- link currency to signals after certain events/puzzles
-	- have overworld link into fight scenes or other minigames
+	- basic dungeon setting with switches linked to spikes (controlled via signals)
+	- have "dinosaurs" instantiate as enemies that can take damage/level up
 	
 - Make use of signals
 	- fundamentally the same as events
