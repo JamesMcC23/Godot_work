@@ -1,0 +1,22 @@
+godot overworld project
+
+necessities
+- make a dinosaur(?)
+	- generic RPG player 
+	- basic functions (should take input from signals/events)
+	
+- Basic overworld
+	- Isometric (?)
+	- angled 3D view (make use of z axis)
+	- some currency (XP, coins)
+	- link currency to signals after certain events/puzzles
+	- have overworld link into fight scenes or other minigames
+	
+- Make use of signals
+	- fundamentally the same as events
+	- have standard signals (OnButtonPressed) and custom signals (same as events)
+	
+-Make use of resources
+	- simply read from them
+	- could use to instantiate item pickups with set values
+	- assign variables to dinosaurs through resources (to add random dinosaurs to party with similar stats)
