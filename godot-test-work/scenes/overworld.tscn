@@ -19,7 +19,7 @@ script = ExtResource("1_356oe")
 
 [node name="enemy" type="Sprite2D" parent="enemy_spawner" unique_id=1384018537]
 z_index = 1
-position = Vector2(164.99998, -85.99999)
+position = Vector2(311, -126)
 scale = Vector2(0.2, 0.2)
 texture = ExtResource("2_eab5i")
 script = ExtResource("1_m1b5j")
