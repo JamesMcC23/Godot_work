@@ -1,0 +1,6 @@
+[gd_resource type="Resource" format=3 uid="uid://liufashmdvm0"]
+
+[ext_resource type="Script" uid="uid://4r2g75aqpowf" path="res://scripts/dinosaur_blueprint_script.gd" id="1_6afmu"]
+
+[resource]
+script = ExtResource("1_6afmu")

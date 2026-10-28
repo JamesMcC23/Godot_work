@@ -1,0 +1,11 @@
+[gd_resource type="Resource" script_class="status" format=3 uid="uid://cg121iy3bc6a6"]
+
+[ext_resource type="Script" uid="uid://c5mn0ogyo35ku" path="res://scripts/status_template.gd" id="1_7tj3s"]
+
+[resource]
+script = ExtResource("1_7tj3s")
+stat_addition = 2
+stat = "Attack"
+trigger = "TurnStart"
+duration = "N/A"
+metadata/_custom_type_script = "uid://c5mn0ogyo35ku"

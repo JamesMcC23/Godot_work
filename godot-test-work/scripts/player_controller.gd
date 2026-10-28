@@ -11,8 +11,7 @@ func _ready() -> void:
 
 func get_input():
 	var input_direction = Input.get_vector("left","right","up","down")
-	velocity += input_direction * 100
-	print(input_direction)
+	velocity = input_direction * 150
 
 # Called every frame. 'delta' is the elapsed time since the previous frame.
 func _physics_process(delta: float) -> void:
